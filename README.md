@@ -5,4 +5,5 @@
 - DMGMORI
 - Google　
 - Automitive companies
+- Recruit
 - Grab
