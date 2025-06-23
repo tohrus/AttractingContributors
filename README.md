@@ -2,3 +2,4 @@
 
 # List of animals
 - cat
+- polar bear
