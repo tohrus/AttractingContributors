@@ -7,3 +7,7 @@
 - Automitive companies
 - Toyota
 - Honda
+- Microsoft
+- Apple
+- Recruit
+- Grab
