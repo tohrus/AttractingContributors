@@ -13,3 +13,4 @@
 - football
 - baseball
 - table tennis
+- soccer
