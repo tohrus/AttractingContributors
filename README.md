@@ -6,3 +6,5 @@
 - Slay the Spire
 - League of Legends
 - Genshin Impact
+- Ace Combat
+- fast food similator
