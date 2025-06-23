@@ -1,5 +1,12 @@
-# Please indicate your favourite places to eat near NAIST.
+# My favourite animals.
 
-# List of place
-- mamemame saisai
-- Gusto
+# List of animals
+- dog
+- bird
+- cat
+- ant
+- isopod
+- orca
+- otter
+- penguin
+
