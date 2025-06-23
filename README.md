@@ -6,3 +6,8 @@
 - Slay the Spire
 - League of Legends
 - Mario Kart 8 DX
+- Honkai: Star Rail
+- Blender and Unity
+- Genshin Impact
+- Ace Combat
+- fast food similator
