@@ -5,3 +5,5 @@
 - DMGMORI
 - Google　
 - Automitive companies
+- Toyota
+- Honda
