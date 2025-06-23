@@ -9,4 +9,5 @@
 - orca
 - otter
 - penguin
-
+- deer
+- elephant
