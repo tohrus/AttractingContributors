@@ -9,3 +9,5 @@
 - Jogging
 - darts
 - Sleeping
+- Driving
+- Travering
