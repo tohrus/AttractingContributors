@@ -12,4 +12,4 @@
 - Running
 - football
 - baseball
-
+- table tennis
