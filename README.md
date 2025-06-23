@@ -6,3 +6,7 @@
 - Slay the Spire
 - League of Legends
 - Honkai: Star Rail
+- Blender and Unity
+- Genshin Impact
+- Ace Combat
+- fast food similator
