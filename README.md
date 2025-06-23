@@ -8,6 +8,7 @@ I'd like to know some preferred programming languages from contributors
 - Matlab
 - Golang
 - Definitely Python
+- Ruby
 - node.js
 - Definitely Python  
 - HLSL
