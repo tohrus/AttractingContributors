@@ -6,3 +6,4 @@
 - penguin
 - polar bear
 - panda
+- shiba inu
