@@ -3,4 +3,6 @@
 # List of animals
 - African painted dog
 - cat
+- penguin
 - polar bear
+
