@@ -6,3 +6,6 @@
 - Google　
 - Automitive companies
 - Microsoft
+- Apple
+- Recruit
+- Grab
