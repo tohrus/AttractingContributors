@@ -7,3 +7,4 @@
 - polar bear
 - panda
 - Shiba
+- whale
