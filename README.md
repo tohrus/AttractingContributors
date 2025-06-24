@@ -11,3 +11,5 @@
 - Sleeping
 - Watching anime
 - YouTube
+- Driving
+- Travering
