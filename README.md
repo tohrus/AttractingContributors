@@ -8,5 +8,11 @@
 - Cook
 - Jogging
 - darts
-- Sleeping
 - Thrifting
+- Studying
+- Make apps
+- Sleeping x6
+- Watching anime x2
+- YouTube
+- Driving
+- Travering
