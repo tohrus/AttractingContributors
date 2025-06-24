@@ -8,5 +8,8 @@
 - Cook
 - Jogging
 - darts
-- Sleeping
-- Sleeping
+- Sleeping x2
+- Watching anime
+- YouTube
+- Driving
+- Travering
