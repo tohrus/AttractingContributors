@@ -9,8 +9,8 @@
 - Jogging
 - darts
 - Make apps
-- Sleeping x3
-- Watching anime
+- Sleeping x4
+- Watching anime x2
 - YouTube
 - Driving
 - Travering
