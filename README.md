@@ -12,3 +12,4 @@ I'd like to know some preferred programming languages from contributors
 - node.js
 - Definitely Python  
 - HLSL
+- Python
