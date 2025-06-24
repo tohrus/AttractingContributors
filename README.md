@@ -6,4 +6,5 @@
 - penguin
 - polar bear
 - panda
+- Shiba
 - whale
