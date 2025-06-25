@@ -15,3 +15,4 @@
 - Australia
 - Turkey
 - Korea
+- Switzerland
