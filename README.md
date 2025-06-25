@@ -5,3 +5,4 @@
 - Google Chrome
 - Safari
 - ChatGPT
+- Mercari
