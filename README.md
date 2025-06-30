@@ -18,3 +18,4 @@
 - Switzerland
 - UK
 - Sweden
+- Taiwan
