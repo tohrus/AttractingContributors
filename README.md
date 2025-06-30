@@ -1,5 +1,5 @@
-# Please indicate your favourite places to eat near NAIST.
+# Please tell me the subjects you took
 
-# List of place
-- mamemame saisai
-- Gusto
+# List of subjects
+- Software Engineering
+- Technology and Ethics
