@@ -3,3 +3,4 @@
 
 # List of subjects/教科一覧
 - Software Engineering ソフトウェア工学
+- Sequential Data Modeling 系列データモデリング
