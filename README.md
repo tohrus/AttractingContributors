@@ -3,14 +3,9 @@
 
 # List of subjects/教科一覧
 - Software Engineering ソフトウェア工学
-
+- Sequential Data Modeling 系列データモデリング
 - Green computing platform　グリーンコンピューティング基盤
-
-
 - Visual Media Processing 視覚メディア処理
-
-
 - Ubiquitous
-
 - Sequential Data Modeling 系列データモデリング
 
