@@ -17,4 +17,5 @@
 - Korea
 - Switzerland
 - UK
+- Sweden
 - Taiwan
