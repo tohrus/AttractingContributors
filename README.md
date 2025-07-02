@@ -13,4 +13,5 @@ I'd like to know some preferred programming languages from contributors
 - Definitely Python  
 - HLSL
 - COBOL
+- Assembler
 - Python
