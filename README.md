@@ -19,3 +19,4 @@
 - UK
 - Sweden
 - Taiwan
+- America
