@@ -14,3 +14,5 @@
 - SpaceX
 - VOC
 - Nissan
+- LY Corporation
+- Sony
